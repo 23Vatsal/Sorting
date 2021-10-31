@@ -3,7 +3,7 @@
 
 int main()
 {
-	int i,hole,A[100],value=0,n;
+	int i,hole,A[1000],value=0,n;
 	printf("Enter number of elements: ");
 	scanf("%d",&n);
 	printf("\nEnter the elements:\n");
